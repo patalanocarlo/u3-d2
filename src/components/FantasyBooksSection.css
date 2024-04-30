@@ -1,0 +1,7 @@
+@media (min-width: 320px) and (max-width: 380px) {
+  .custom-xs-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+  }
+}
